@@ -1,5 +1,5 @@
 
-# Labirintas
+# LEMPUTE
 
 _website design project_
 
@@ -18,7 +18,6 @@ Design: [Design-light-bulb](https://cdn.dribbble.com/users/140123/screenshots/24
 -   Github pages
 -   icons (FontAwesome, ReactIcons)
 -   inline CSS
--   SVG images
 -   **NO** responsive design
 
 ## 🧰 Getting Started
