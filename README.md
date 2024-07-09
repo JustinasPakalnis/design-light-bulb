@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://justinaspakalnis.github.io/design-light-bulb/
 
-Design: [Design-lightbulb](https://cdn.dribbble.com/users/140123/screenshots/2449522/404_1x.png?resize=800x600&vertical=center)
+Design: [Design-light-bulb](https://cdn.dribbble.com/users/140123/screenshots/2449522/404_1x.png?resize=800x600&vertical=center)
 
 ## 🎯 Project features/goals
 
