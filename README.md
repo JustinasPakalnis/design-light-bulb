@@ -9,9 +9,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://justinaspakalnis.github.io/Design-ALIEN/
+Site published at: https://justinaspakalnis.github.io/design-light-bulb/
 
-Design: [Design-ALIEN](https://dribbble.com/shots/2815937-404-page)
+Design: [Design-lightbulb](https://cdn.dribbble.com/users/140123/screenshots/2449522/404_1x.png?resize=800x600&vertical=center)
 
 ## 🎯 Project features/goals
 
@@ -20,7 +20,6 @@ Design: [Design-ALIEN](https://dribbble.com/shots/2815937-404-page)
 -   inline CSS
 -   SVG images
 -   **NO** responsive design
--   Favicon
 
 ## 🧰 Getting Started
 
